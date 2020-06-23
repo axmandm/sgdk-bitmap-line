@@ -1,0 +1,8 @@
+[
+  {
+    "files": "**/*.c",
+    "command": "d:/sgdk/bin/make -f d:\\sgdk\\makefile.gen",
+    "_showOutput": "true",
+    "showError": "true"
+  }
+]
