@@ -17,5 +17,7 @@ Each pixel is 4 bit color, so two at once means a byte, which is a lot more effi
 But you also need to supply two colors
 
 Stef 23/06/2020 at 11:39
-as said Eric color are 4 bits on Megadrive, still i let the opportunity of providing a couple of pixel color instead of a single pixel color. Thus you can create mesh filling (alternate color pixel), to so pseudo transparent or just to simulate more colors.
+as said Eric color are 4 bits on Megadrive, still i let the opportunity of providing a couple of pixel 
+color instead of a single pixel color. Thus you can create mesh filling (alternate color pixel), to so 
+pseudo transparent or just to simulate more colors.
 ```
